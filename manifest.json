@@ -1,8 +1,8 @@
 {
-  "name": "Startup Sound",
-  "version": "1.1.0",
-  "description": "Adds a sound or jingle on startup",
-  "author": "Original: yatsukiko\nSettings: Melmsie",
+  "name": "Startup Jingle",
+  "version": "2.0.0",
+  "description": "Adds a jingle on startup",
+  "author": "Original: yatsukiko\nSettings: Melmsie\nPatches: Kantraksel",
   "license": "MIT",
-  "repo": "https://github.com/yatsukiko/pc-jingle"
+  "repo": "https://github.com/kantraksel/powercord-jingle"
 }
